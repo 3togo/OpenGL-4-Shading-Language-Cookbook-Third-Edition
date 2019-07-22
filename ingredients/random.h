@@ -2,7 +2,7 @@
 #define GLSLCOOKBOOK_RANDOM_H
 
 #include <random>
-
+#include <algorithm>
 #include <glm/glm.hpp>
 #include <glm/gtc/constants.hpp>
 
